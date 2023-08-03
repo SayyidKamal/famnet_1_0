@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "143342812274",
+    "firebase_url": "https://lox-services-v1-0-default-rtdb.firebaseio.com",
+    "project_id": "lox-services-v1-0",
+    "storage_bucket": "lox-services-v1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143342812274:android:5e438bc87fd4b16a4496eb",
+        "android_client_info": {
+          "package_name": "com.example.famnet_1_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143342812274-524t9f0kb4lktb1t4mvasvtue57qmmh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe5IqE1-dbb0M_7ZgNlH2KpFSaKbtHTI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143342812274-524t9f0kb4lktb1t4mvasvtue57qmmh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143342812274:android:4c9ba59fc916c0b74496eb",
+        "android_client_info": {
+          "package_name": "com.example.lox_services_v10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143342812274-524t9f0kb4lktb1t4mvasvtue57qmmh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe5IqE1-dbb0M_7ZgNlH2KpFSaKbtHTI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143342812274-524t9f0kb4lktb1t4mvasvtue57qmmh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
